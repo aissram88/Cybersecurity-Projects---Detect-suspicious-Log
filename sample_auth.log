@@ -1,0 +1,7 @@
+2026-05-04 09:00:01 INFO User alice logged in successfully
+2026-05-04 09:05:12 WARNING Failed login attempt for user admin
+2026-05-04 09:06:18 WARNING Failed login attempt for user guest
+2026-05-04 09:10:45 INFO User bob changed password
+2026-05-04 09:15:03 ERROR Unauthorized access attempt detected
+2026-05-04 09:20:30 INFO System backup completed
+2026-05-04 09:15:03 WARNING Multiple failed logiin attempts from same source 
